@@ -48,4 +48,10 @@ body {
   .game-info {
     margin-left: 20px;
   }
+.yellow{
+  color: red;
+}
+.btn-color{
+  text-decoration-color: red;
+}
   
